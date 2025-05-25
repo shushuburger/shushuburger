@@ -1,7 +1,12 @@
 ## Hi there 👋
 # 🤖  안녕하세요. 저는 김은수 입니다. 🐯
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshushuburger&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+## 💻 About Me
+- 🔭 현재는 충남대학교 컴퓨터융합학부에 재학 중이며, 멋쟁이사자처럼 운영진으로 활동 중입니다.
+- 🌱 프론트엔드 개발을 중점적으로 학습하고 있으며, React, JavaScript에 관심이 많습니다.
+- 💬 알고리즘, HCI, 미세먼지 시각화 등 다양한 프로젝트 경험이 있습니다.
+
+[https://github.com/shushuburger](https://github.com/shushuburger)
 
 ### Get in Touch
 
